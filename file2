@@ -1,0 +1,24 @@
+
+
+x=3+5j
+print("Real part is",x.real)
+print("Imaginary part is ",x.imag)
+
+print("\n")
+
+marks=89.67
+print(f"Marks is: {marks}")
+print(f"Data type if marks is:{type(marks)}")
+
+print("\n")
+
+s1="python and data science"
+s1.upper()
+print(s1.upper())
+
+s2="data science is an interdisciplinary"
+print(s2)
+print("____________")
+s2=s2.upper()
+print(s2)
+
